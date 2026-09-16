@@ -30,4 +30,4 @@ An interactive Power BI dashboard designed to analyze crop production and yield 
 
 ## Dashboard Preview
 
-![Crop Production Dashboard](25pds850(PowerBI).png)
+![Crop Production Dashboard](crop_production_dashboard.png)
